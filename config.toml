@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Detrattori e strilloni del web"
 description = "Pensi di aver perso per sempre i tuoi soldi dopo averli investiti nei progetti “Vertical Gain”, “Adonit”, “Vsafe” o “Vbond”? Questo sito potrebbe aiutarti."
 [params.banner]
-heading = "Ritieni di aver perso per sempre i tuoi soldi dopo averli investiti nei progetti \"Vertical Gain\", \"Adonit\", \"Vsafe\" o \"Vbond\"? Questo sito potrebbe aiutarti."
+heading = "Pensi di aver perso per sempre i tuoi soldi dopo averli investiti nei progetti \"Vertical Gain\", \"Adonit\", \"Vsafe\" o \"Vbond\"? Questo sito potrebbe aiutarti."
 image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "Ci siamo fidati, abbiamo atteso, siamo stati pazienti, ma non è bastato. Abbiamo pertanto deciso, supportati dall'associazione \"Il gatto e la volpe nel web\" (che ringraziamo), di intraprendere un'azione collettiva per cercare di riavere i nostri soldi."
