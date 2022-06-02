@@ -3,7 +3,7 @@ title: Come aderire all'azione collettiva
 date: 2022-06-02T13:00:24.000+00:00
 image: "/images/Cattura.PNG"
 author:
-- Admin
+- Detrattori e strilloni del web
 categories:
 - Working days
 tags:
