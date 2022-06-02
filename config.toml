@@ -34,7 +34,7 @@ weight = 5
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Detrattori e strilloni del web"
-description = "Ritieni di aver perso per sempre i tuoi soldi dopo averli investiti nei progetti “Vertical Gain”, “Adonit”, “Vsafe” o “Vbond”? Questo sito potrebbe aiutarti."
+description = "Pensi di aver perso per sempre i tuoi soldi dopo averli investiti nei progetti “Vertical Gain”, “Adonit”, “Vsafe” o “Vbond”? Questo sito potrebbe aiutarti."
 [params.banner]
 heading = "Ritieni di aver perso per sempre i tuoi soldi dopo averli investiti nei progetti \"Vertical Gain\", \"Adonit\", \"Vsafe\" o \"Vbond\"? Questo sito potrebbe aiutarti."
 image = "images/2020-landscape-1-2.png"
