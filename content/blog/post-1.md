@@ -1,6 +1,6 @@
 ---
 title: Come aderire all'azione collettiva
-date: 2022-06-02T13:00:24+00:00
+date: 2022-06-02T13:00:24.000+00:00
 image: "/images/Cattura.PNG"
 author:
 - Admin
@@ -12,6 +12,13 @@ tags:
 description: This is meta description
 
 ---
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+**AZIONE COLLETTIVA vs ADONIT LLC**  
+  
+A seguito di varie segnalazioni, confronti con associazioni e avvocati, e richieste di aiuto in giro per il web, abbiamo deciso di intraprendere un'azione collettiva nei confronti dei responsabili della raccolta capitali in Italia messa in essere dalla società **Adonit LLC** e da tutti i soggetti (e le società) ad essa collegate, in modo che le autorità possano chiarire la vicenda.  
+Siamo supportati in questo senso dall'associazione "Il gatto e la volpe nel web", che si occupa (tra le altre cose) proprio di truffe e di tutela dei risparmiatori.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+  
+Pertanto, se in passato hai investito in uno dei vari progetti tra i quali "Vertical Gain", "Adonit", "Vsafe" o "Vbond", e ritieni di essere incappato in una truffa, puoi contattare direttamente l'associazione all'indirizzo e-mail info@ilgattoelavolpenelweb.it  
+Saranno direttamente loro a fornirti tutte le informazioni utili per difenderti ed unirti all'azione collettiva a cui abbiamo aderito. 
+
+Il nostro scopo è quello di riavere i nostri soldi, e ottenere giustizia.
