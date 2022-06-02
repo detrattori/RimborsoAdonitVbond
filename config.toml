@@ -41,11 +41,11 @@ image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "Ci siamo fidati, abbiamo atteso, siamo stati pazienti, ma non è bastato. Abbiamo pertanto deciso, supportati dall'associazione \"Il gatto e la volpe nel web\" (che ringraziamo), di intraprendere un'azione collettiva per cercare di riavere i nostri soldi."
 [params.call_to_action]
-button_label = "Contact Us"
-button_url = "contact"
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-enable = true
-title = "Contact us for more information."
+#button_label = "Contact Us"
+#button_url = "contact"
+#content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+#enable = true
+#title = "Contact us for more information."
 [params.footer]
 content = "Questo sito non rappresenta una testata giornalistica in quanto viene aggiornato senza  alcuna periodicità. Non può pertanto considerarsi un prodotto editoriale ai sensi della  legge n° 62 del 7.03.2001. Gli autori del sito non sono responsabili dei siti collegati tramite link né del loro contenuto che può essere soggetto a variazioni nel tempo."
 copyright = "Creato a Giugno 2022 da persone oneste."
@@ -53,17 +53,17 @@ title = "Avviso per i visitatori"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
-image = "images/2020-square-2.png"
+#image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
-image = "images/2020-square-1.png"
+#image = "images/2020-square-1.png"
 [params.social]
-email = "#"
-facebook = "#"
-instagram = "#"
-linkedin = "#"
-twitter = "#"
-yelp = "#"
+#email = "#"
+#facebook = "#"
+#instagram = "#"
+#linkedin = "#"
+#twitter = "#"
+#yelp = "#"
 [taxonomies]
-author = "author"
-category = "categories"
-tag = "tags"
+#author = "author"
+#category = "categories"
+#tag = "tags"
