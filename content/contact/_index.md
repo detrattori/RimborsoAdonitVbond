@@ -1,7 +1,7 @@
 ---
 title: Contatti
 bg_image: images/2020-landscape-2.png
-description: Questo sito non è gestito, né direttamente né indirettamente, dall'associazione
+description: Questo sito web non è gestito, né direttamente né indirettamente, dall'associazione
   "Il gatto e la volpe nel web".
 
 ---
