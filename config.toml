@@ -48,10 +48,10 @@ enable = true
 title = "Contact us for more information."
 [params.footer]
 address = ""
-content = "This may be a good place to introduce yourself and your site or include some credits."
+content = "Questo sito non rappresenta una testata giornalistica in quanto viene aggiornato senza  alcuna periodicità. Non può pertanto considerarsi un prodotto editoriale ai sensi della  legge n° 62 del 7.03.2001. Gli autori del sito non sono responsabili dei siti collegati tramite link né del loro contenuto che può essere soggetto a variazioni nel tempo."
 copyright = "Creato a Giugno 2022 da persone oneste."
 hours = ""
-title = "About This Site"
+title = "Avviso per i visitatori"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
