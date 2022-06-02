@@ -43,7 +43,7 @@ heading = "Ci siamo fidati, abbiamo atteso, siamo stati pazienti, ma non è bast
 [params.call_to_action]
 [params.footer]
 content = "Questo sito non rappresenta una testata giornalistica in quanto viene aggiornato senza  alcuna periodicità. Non può pertanto considerarsi un prodotto editoriale ai sensi della  legge n° 62 del 7.03.2001. Gli autori del sito non sono responsabili dei siti collegati tramite link né del loro contenuto che può essere soggetto a variazioni nel tempo."
-copyright = "Creato a Giugno 2022 da detrattori, strilloni del web, ma soprattutto persone oneste."
+copyright = "Creato a Giugno 2022 da \"detrattori\", \"strilloni del web\", ma soprattutto persone oneste."
 enable = true
 title = "Avviso per i visitatori"
 [params.social]
