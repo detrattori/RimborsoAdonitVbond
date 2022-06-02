@@ -1,6 +1,6 @@
 ---
 title: Come aderire all'azione collettiva
-date: 2020-03-14T15:40:24.000+06:00
+date: 2022-06-02T13:00:24+00:00
 image: "/images/Cattura.PNG"
 author:
 - Admin
