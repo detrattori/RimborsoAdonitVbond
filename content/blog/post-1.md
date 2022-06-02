@@ -21,14 +21,14 @@ description: Abbiamo deciso di intraprendere un'azione collettiva nei confronti 
   possano chiarire la vicenda.
 
 ---
-**AZIONE COLLETTIVA vs ADONIT LLC**
+##### **AZIONE COLLETTIVA vs ADONIT LLC**
 
-A seguito di varie segnalazioni, confronti con associazioni e avvocati, e richieste di aiuto in giro per il web, abbiamo deciso di intraprendere un'azione collettiva nei confronti dei responsabili della raccolta capitali in Italia messa in essere dalla società Adonit LLC e da tutti i soggetti (e le società) ad essa collegate, in modo che le autorità possano chiarire la vicenda.  
+##### A seguito di varie segnalazioni, confronti con associazioni e avvocati, e richieste di aiuto in giro per il web, abbiamo deciso di intraprendere un'azione collettiva nei confronti dei responsabili della raccolta capitali in Italia messa in essere dalla società Adonit LLC e da tutti i soggetti (e le società) ad essa collegate, in modo che le autorità possano chiarire la vicenda.  
 Siamo supportati in questo senso dall'associazione "Il gatto e la volpe nel web", che si occupa (tra le altre cose) proprio di truffe e di tutela dei risparmiatori.
 
-Pertanto, se in passato hai investito in uno dei vari progetti tra i quali "Vertical Gain", "Adonit", "Vsafe" o "Vbond", e ritieni di essere incappato in una truffa, puoi contattare direttamente l'associazione all'indirizzo e-mail info@ilgattoelavolpenelweb.it  
+##### Pertanto, se in passato hai investito in uno dei vari progetti tra i quali "Vertical Gain", "Adonit", "Vsafe" o "Vbond", e ritieni di essere incappato in una truffa, puoi contattare direttamente l'associazione all'indirizzo e-mail info@ilgattoelavolpenelweb.it  
 Saranno direttamente loro a fornirti tutte le informazioni utili per difenderti ed unirti all'azione collettiva a cui abbiamo aderito.
 
-Il nostro scopo è quello di riavere i nostri soldi, e ottenere giustizia.  
-  
-N.B.: Questo sito web non è gestito, né direttamente né indirettamente, dall'associazione "Il gatto e la volpe nel web".
+##### Il nostro scopo è quello di riavere i nostri soldi, e ottenere giustizia.
+
+##### N.B.: Questo sito web non è gestito, né direttamente né indirettamente, dall'associazione "Il gatto e la volpe nel web".
