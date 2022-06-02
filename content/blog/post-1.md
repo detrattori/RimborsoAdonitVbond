@@ -7,14 +7,23 @@ author:
 categories:
 - Working days
 tags:
-- work
-- day
-description: This is meta description
+- rimborso
+- raccolta
+- vertical gain
+- collettiva
+- azione
+- vbond
+- vsafe
+- adonit
+description: Abbiamo deciso di intraprendere un'azione collettiva nei confronti dei
+  responsabili della raccolta capitali in Italia messa in essere dalla società Adonit
+  LLC e da tutti i soggetti (e le società) ad essa collegate, in modo che le autorità
+  possano chiarire la vicenda.
 
 ---
 **AZIONE COLLETTIVA vs ADONIT LLC**  
   
-A seguito di varie segnalazioni, confronti con associazioni e avvocati, e richieste di aiuto in giro per il web, abbiamo deciso di intraprendere un'azione collettiva nei confronti dei responsabili della raccolta capitali in Italia messa in essere dalla società **Adonit LLC** e da tutti i soggetti (e le società) ad essa collegate, in modo che le autorità possano chiarire la vicenda.  
+A seguito di varie segnalazioni, confronti con associazioni e avvocati, e richieste di aiuto in giro per il web, abbiamo deciso di intraprendere un'azione collettiva nei confronti dei responsabili della raccolta capitali in Italia messa in essere dalla società Adonit LLC e da tutti i soggetti (e le società) ad essa collegate, in modo che le autorità possano chiarire la vicenda.  
 Siamo supportati in questo senso dall'associazione "Il gatto e la volpe nel web", che si occupa (tra le altre cose) proprio di truffe e di tutela dei risparmiatori.
 
   
