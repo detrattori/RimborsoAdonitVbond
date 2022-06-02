@@ -12,7 +12,7 @@ title = "Rimborso Adonit - Vsafe - Vbond"
 unsafe = true
 [[menu.desktop]]
 URL = "contact"
-name = "Contact"
+name = "Contatti"
 weight = 1
 [[menu.main]]
 URL = "/"
@@ -47,10 +47,8 @@ content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean comm
 enable = true
 title = "Contact us for more information."
 [params.footer]
-#address = ""
 content = "Questo sito non rappresenta una testata giornalistica in quanto viene aggiornato senza  alcuna periodicità. Non può pertanto considerarsi un prodotto editoriale ai sensi della  legge n° 62 del 7.03.2001. Gli autori del sito non sono responsabili dei siti collegati tramite link né del loro contenuto che può essere soggetto a variazioni nel tempo."
 copyright = "Creato a Giugno 2022 da persone oneste."
-#hours = ""
 title = "Avviso per i visitatori"
 [params.gallery]
 enable = true
