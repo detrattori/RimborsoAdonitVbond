@@ -39,7 +39,7 @@ description = "This is meta description"
 heading = "Ritieni di aver perso per sempre i tuoi soldi dopo averli investiti nei progetti \"Vertical Gain\", \"Adonit\", \"Vsafe\" o \"Vbond\"? Questo sito potrebbe aiutarti."
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Ci siamo fidati, abbiamo atteso, siamo stati pazienti, ma non è bastato. Abbiamo pertanto deciso, grazie all'associazione \"Il gatto e la volpe nel web\", di intraprendere un'azione collettiva per cercare di riavere i nostri soldi."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
