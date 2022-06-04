@@ -7,6 +7,8 @@ author:
 categories:
 - Working days
 tags:
+- danni
+- risarcimento
 - rimborso
 - raccolta
 - vertical gain
